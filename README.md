@@ -5,9 +5,6 @@ This repository contains Libero project(s) containing an FPGA design including a
 The Programming bitstream(s) are also included so that you do not need to run through the full FPGA design flow 
 in order to start developping software for RISC-V.
 
-### Target Hardware
-Details of the features of PolarFire Evaluation kit are available [here](https://www.microsemi.com/products/fpga-soc/design-resources/dev-kits/polarfire/polarfire-eval-kit).
-
 ### Modify The FPGA Design 
 The Modify_The_FPGA_Design folder contains Libero example designs. Libero is Microsemi's FPGA design tool. 
 You will need this tool if you wish to modify the example FPGA designs. Libero is available from [here](https://www.microsemi.com/products/fpga-soc/design-resources/design-software/libero-soc#downloads).
@@ -21,3 +18,9 @@ A programming file resulting from the corresponding Libero design in "Modify_The
 
 ### Example Software Projects
 A set of RISC-V example software projects are also available for these designs from the SoftConsole [page](https://github.com/RISCV-on-Microsemi-FPGA/SoftConsole).
+
+### Target Hardware
+Details of the features of PolarFire Evaluation kit are available [here](https://www.microsemi.com/products/fpga-soc/design-resources/dev-kits/polarfire/polarfire-eval-kit).
+
+### Target Mi-V CPU
+Details of the features of Mi-V CPUs are available [here](https://github.com/Mi-V-Ecosystem/Mi-V-CPUs).
