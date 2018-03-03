@@ -23,9 +23,8 @@ The memory map for each design is available within each Libero project.
 
    Uses legacy CoreRISCV_AXI4 soft processor. Allows software debugging using FlashPro5. This also allows for booting from SPI Flash.The same JTAG port is used for programming the FPGA and debugging RISC-V software.
 
-### Target Mi-V CPU
-Details of the features of Mi-V CPUs are available [here](https://github.com/Mi-V-Ecosystem/Mi-V-CPUs).
-
 ### Target Hardware
 Details of the features of PolarFire Evaluation kit are available [here](https://www.microsemi.com/products/fpga-soc/design-resources/dev-kits/polarfire/polarfire-eval-kit).
 
+### Target Mi-V CPU
+Details of the features of Mi-V CPUs are available [here](https://github.com/Mi-V-Ecosystem/Mi-V-CPUs).
