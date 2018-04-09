@@ -24,10 +24,10 @@ The memory map for each design is available within each Libero project.
    Allows software debugging using FlashPro5. This also allows for booting from SPI Flash.The same JTAG port is used for programming the FPGA and debugging RISC-V software. Uses legacy CoreRISCV_AXI4 soft processor.
 
 ### Example Software Projects
-A set of RISC-V example software projects are also available for these designs from the SoftConsole [page](https://github.com/Mi-V-Ecosystem/SoftConsole).
+A set of RISC-V example software projects are also available for these designs from the SoftConsole [page](https://github.com/RISCV-on-Microsemi-FPGA/SoftConsole).
 
 ### Target Hardware
 The PolarFire Evaluation Kit includes an MPF300T FPGA. Details of the features of PolarFire Evaluation kit are available [here](https://www.microsemi.com/products/fpga-soc/design-resources/dev-kits/polarfire/polarfire-eval-kit).
 
 ### Target Mi-V CPU
-Details of the features of Mi-V CPUs are available [here](https://github.com/Mi-V-Ecosystem/Mi-V-CPUs).
+Details of the features of Mi-V CPUs are available [here](https://github.com/RISCV-on-Microsemi-FPGA/Mi-V-CPUs).

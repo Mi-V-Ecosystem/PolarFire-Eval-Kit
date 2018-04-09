@@ -16,10 +16,10 @@ Please note that you only need to install this standalone version of FlashPro Ex
 A programming file resulting from the corresponding Libero project in "Modify_The_FPGA_Design" folder is available in "Programming The Target Device" for easy access.
 
 ### Example Software Projects
-A set of RISC-V example software projects are also available for these designs from the SoftConsole [page](https://github.com/Mi-V-Ecosystem/SoftConsole).
+A set of RISC-V example software projects are also available for these designs from the SoftConsole [page](https://github.com/RISCV-on-Microsemi-FPGA/SoftConsole).
 
 ### Target Hardware
 The PolarFire Evaluation Kit includes an MPF300T FPGA. Details of the features of PolarFire Evaluation kit are available [here](https://www.microsemi.com/products/fpga-soc/design-resources/dev-kits/polarfire/polarfire-eval-kit).
 
 ### Target Mi-V CPU
-Details of the features of Mi-V CPUs are available [here](https://github.com/Mi-V-Ecosystem/Mi-V-CPUs).
+Details of the features of Mi-V CPUs are available [here](https://github.com/RISCV-on-Microsemi-FPGA/Mi-V-CPUs).

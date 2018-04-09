@@ -1,6 +1,6 @@
 <project name="MIV_RV32IMA_L1_AHB_BaseDesign" version="1.1">
     <ProjectDirectory>
-        C:\Users\ciaran.lappin\Desktop\ExtHelp\Hugh\MIV_RV32IMA_L1_AHB_BaseDesign
+        C:\Users\nitin.deshpande\Desktop\tempdown\MPF300T-PolarFire-Eval-Kit\Programming_The_Target_Device\MIV_RV32IMA_L1_AHB_BaseDesign
     </ProjectDirectory>
     <View>
         ChainView
@@ -9,17 +9,17 @@
         
     </LiberoTargetDevice>
     <LogFile>
-        C:\Users\ciaran.lappin\Desktop\ExtHelp\Hugh\MIV_RV32IMA_L1_AHB_BaseDesign\MIV_RV32IMA_L1_AHB_BaseDesign.log
+        C:\Users\nitin.deshpande\Desktop\tempdown\MPF300T-PolarFire-Eval-Kit\Programming_The_Target_Device\MIV_RV32IMA_L1_AHB_BaseDesign\MIV_RV32IMA_L1_AHB_BaseDesign.log
     </LogFile>
     <SerializationOption>
         Skip
     </SerializationOption>
     <programmer status="enable" type="FlashPro5" revision="UndefRev" connection="usb2.0">
         <name>
-            E2001EJ7BN
+            E200V3SUI
         </name>
         <id>
-            E2001EJ7BN
+            E200V3SUI
         </id>
     </programmer>
     <configuration>
@@ -77,14 +77,14 @@
                 MPF300T_ES
             </Name>
             <Custom>
-                MPF300T_ES
+                MPF300TS_ES
             </Custom>
             <Algo type="STAPL">
                 <filename>
-                    C:\Users\ciaran.lappin\Desktop\ExtHelp\Hugh\MIV_RV32IMA_L1_AHB_BaseDesign\MPF300T_ES_1.stp
+                    C:\Users\nitin.deshpande\Desktop\tempdown\MPF300T-PolarFire-Eval-Kit\Programming_The_Target_Device\MIV_RV32IMA_L1_AHB_BaseDesign\projectData\BaseDesign.stp
                 </filename>
                 <local>
-                    projectData\MPF300T_ES_1.stp
+                    projectData\BaseDesign.stp
                 </local>
                 <SelectedAction>
                     PROGRAM

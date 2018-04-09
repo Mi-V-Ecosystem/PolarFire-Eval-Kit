@@ -1,6 +1,6 @@
 <project name="PF_CoreRISCV_AXI4_CoreBootStrap" version="1.1">
     <ProjectDirectory>
-        C:\Users\ciaran.lappin\Desktop\Github\PF_MPF300T_ES_Advanced_Devlopment_Kit - Copy\Programming_The_Target_Device\PF_CoreRISCV_AXI4_CoreBootStrap
+        C:\Users\nitin.deshpande\Desktop\tempdown\MPF300T-PolarFire-Eval-Kit\Programming_The_Target_Device\PF_CoreRISCV_AXI4_CoreBootStrap
     </ProjectDirectory>
     <View>
         SingleSTAPLView
@@ -9,17 +9,17 @@
         
     </LiberoTargetDevice>
     <LogFile>
-        C:\Users\ciaran.lappin\Desktop\Github\PF_MPF300T_ES_Advanced_Devlopment_Kit - Copy\Programming_The_Target_Device\PF_CoreRISCV_AXI4_CoreBootStrap\PF_CoreRISCV_AXI4_CoreBootStrap.log
+        C:\Users\nitin.deshpande\Desktop\tempdown\MPF300T-PolarFire-Eval-Kit\Programming_The_Target_Device\PF_CoreRISCV_AXI4_CoreBootStrap\PF_CoreRISCV_AXI4_CoreBootStrap.log
     </LogFile>
     <SerializationOption>
         Skip
     </SerializationOption>
     <programmer status="enable" type="FlashPro5" revision="UndefRev" connection="usb2.0">
         <name>
-            E2001EJ7BN
+            E200V3SUI
         </name>
         <id>
-            E2001EJ7BN
+            E200V3SUI
         </id>
     </programmer>
     <configuration>
@@ -74,10 +74,10 @@
         </Hardware>
         <Algo type="STAPL">
             <filename>
-                C:\Users\ciaran.lappin\Desktop\Github\PF_MPF300T_ES_Advanced_Devlopment_Kit - Copy\Modify_The_FPGA_Design\PF_CoreRISCV_AXI4_CoreBootStrap\designer\PROC_SUBSYSTEM\export\PROC_SUBSYSTEM_BootStrap.stp
+                C:\Users\nitin.deshpande\Desktop\tempdown\MPF300T-PolarFire-Eval-Kit\Programming_The_Target_Device\PF_CoreRISCV_AXI4_BaseDesign\projectData\PROC_SUBSYSTEM.stp
             </filename>
             <local>
-                projectData\PROC_SUBSYSTEM_BootStrap.stp
+                projectData\PROC_SUBSYSTEM.stp
             </local>
             <SelectedAction>
                 PROGRAM
